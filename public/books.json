@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Sealed Nectar",
+      "author": "Safiur Rahman Al-Mubarakpuri",
+      "image": "/images/1st.webp",
+      "review": "The Sealed Nectar is a biography of the Islamic prophet Muhammad, written in Arabic and Urdu by Safiur Rahman Mubarakpuri. It was honored by the World Muslim League as the best biography of the prophet in 1979.",
+      "totalPages": 562,
+      "rating": 4.5,
+      "category": "Biography",
+      "tags": ["Islamic History", "Biography"],
+      "publisher": "Darussalam",
+      "yearOfPublishing": 1979
+    },
+    {
+      "bookId": 2,
+      "bookName": "The Road to Mecca",
+      "author": "Muhammad Asad",
+      "image": "/images/2.png",
+      "review": "The Road to Mecca is the autobiography of Muhammad Asad, a European Jew who converted to Islam and became one of the most influential Muslims of the 20th century.",
+      "totalPages": 416,
+      "rating": 4.7,
+      "category": "Autobiography",
+      "tags": ["Conversion Story", "Islamic Philosophy"],
+      "publisher": "Islamic Book Trust",
+      "yearOfPublishing": 1954
+    },
+    {
+      "bookId": 3,
+      "bookName": "Revive Your Heart",
+      "author": "Nouman Ali Khan",
+      "image": "/images/3.jpg",
+      "review": "Revive Your Heart is a collection of inspirational lectures by Nouman Ali Khan, a renowned Islamic scholar, focusing on spiritual reflection and personal development.",
+      "totalPages": 256,
+      "rating": 4.8,
+      "category": "Spirituality",
+      "tags": ["Self-Help", "Islamic Guidance"],
+      "publisher": "Kube Publishing",
+      "yearOfPublishing": 2017
+    },
+    {
+      "bookId": 4,
+      "bookName": "In the Footsteps of the Prophet",
+      "author": "Tariq Ramadan",
+      "image": "/images/4.jpg",
+      "review": "In the Footsteps of the Prophet is a biography of Muhammad written by Tariq Ramadan, a Swiss Muslim academic and philosopher. It explores the life and teachings of the Prophet in the contemporary context.",
+      "totalPages": 352,
+      "rating": 4.6,
+      "category": "Biography",
+      "tags": ["Islamic Philosophy", "Contemporary Islam"],
+      "publisher": "Oxford University Press",
+      "yearOfPublishing": 2007
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Islamic Enlightenment",
+      "author": "Christopher de Bellaigue",
+      "image": "/images/5.webp",
+      "review": "The Islamic Enlightenment is a historical account by Christopher de Bellaigue, exploring the intellectual developments in the Islamic world during the 19th and early 20th centuries.",
+      "totalPages": 432,
+      "rating": 4.4,
+      "category": "History",
+      "tags": ["Intellectual History", "Islamic Reform"],
+      "publisher": "Liveright",
+      "yearOfPublishing": 2017
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Art of Knowing God",
+      "author": "Ibn Al-Qayyim Al-Jawziyya",
+      "image": "/images/6.webp",
+      "review": "The Art of Knowing God is a profound Islamic theological work by Ibn Al-Qayyim Al-Jawziyya, a prominent Islamic scholar of the medieval era. It delves into the spiritual dimensions of understanding and connecting with the divine.",
+      "totalPages": 320,
+      "rating": 4.9,
+      "category": "Theology",
+      "tags": ["Islamic Philosophy", "Sufism"],
+      "publisher": "Dar Al Kotob Al Ilmiyah",
+      "yearOfPublishing": 1350
+    }
+  ]
+  
